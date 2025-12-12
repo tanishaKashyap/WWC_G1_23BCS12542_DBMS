@@ -1,0 +1,5 @@
+-- G1_23BCS12542_Tanisha_Kumari_SESSION-3
+SELECT email
+FROM Person
+GROUP BY email
+HAVING COUNT(*) > 1;
