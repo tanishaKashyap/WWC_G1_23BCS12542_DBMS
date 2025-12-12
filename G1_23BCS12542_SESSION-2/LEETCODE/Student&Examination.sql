@@ -1,4 +1,4 @@
--- G1_23BCS12542_Tanisha_Kumari_SESSION-1
+-- G1_23BCS12542_Tanisha_Kumari_SESSION-2
 SELECT 
     s.student_id,s.student_name,sub.subject_name,
     COUNT(e.subject_name) AS attended_exams

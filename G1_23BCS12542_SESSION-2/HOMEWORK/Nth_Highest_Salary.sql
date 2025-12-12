@@ -1,4 +1,4 @@
--- G1_23BCS12542_Tanisha_Kumari_SESSION-1
+-- G1_23BCS12542_Tanisha_Kumari_SESSION-2
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
 set N=N-1;
